@@ -46,10 +46,10 @@
         <mxCell id="SXbefpeA6UIsfo8SmCDp-15" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="750" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="730" as="sourcePoint" />
-            <mxPoint x="700" y="680" as="targetPoint" />
+            <mxPoint x="440" y="670" as="sourcePoint" />
+            <mxPoint x="490" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
