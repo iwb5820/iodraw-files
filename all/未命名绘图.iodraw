@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xFZhMD0koIUEWbcOS8xQ-1" value="控制板&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-1" value="转盘控制板&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="170" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-2" value="电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -17,7 +17,7 @@
           <mxGeometry x="860" y="260" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-5" value="控制板&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="550" width="310" height="250" as="geometry" />
+          <mxGeometry x="20" y="550" width="170" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
