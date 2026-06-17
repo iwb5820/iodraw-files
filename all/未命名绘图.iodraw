@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SXbefpeA6UIsfo8SmCDp-1" value="控制板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXbefpeA6UIsfo8SmCDp-2" value="4s14.8v 电池，带充电口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="430" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXbefpeA6UIsfo8SmCDp-6" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
