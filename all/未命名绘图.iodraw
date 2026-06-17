@@ -22,7 +22,7 @@
         <mxCell id="SXbefpeA6UIsfo8SmCDp-6" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-7" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-7" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
