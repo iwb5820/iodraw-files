@@ -52,8 +52,8 @@
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-18" value="自锁启动开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="80" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xFZhMD0koIUEWbcOS8xQ-19" value="LORA射频模组1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="170" width="100" height="60" as="geometry" />
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-19" value="LORA射频模组2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
