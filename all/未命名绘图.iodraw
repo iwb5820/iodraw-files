@@ -28,7 +28,7 @@
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-10" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="370" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xFZhMD0koIUEWbcOS8xQ-11" value="CAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-11" value="CAN端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="755" y="70" width="65" height="40" as="geometry" />
         </mxCell>
       </root>
