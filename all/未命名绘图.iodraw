@@ -37,8 +37,8 @@
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-13" value="PWM端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="70" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xFZhMD0koIUEWbcOS8xQ-14" value="PWM端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="80" width="65" height="40" as="geometry" />
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-14" value="UART端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="65" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
