@@ -82,8 +82,8 @@
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-31" value="必要灯光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xFZhMD0koIUEWbcOS8xQ-32" value="必要灯光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="60" height="30" as="geometry" />
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-32" value="自锁开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
