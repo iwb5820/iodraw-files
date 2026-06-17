@@ -82,6 +82,9 @@
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-31" value="必要灯光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="170" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-32" value="必要灯光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
