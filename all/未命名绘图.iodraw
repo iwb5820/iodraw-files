@@ -5,40 +5,43 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-1" value="转盘控制板&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="170" width="310" height="250" as="geometry" />
+          <mxGeometry x="570" y="140" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-2" value="电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="170" width="220" height="130" as="geometry" />
+          <mxGeometry x="920" y="140" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-3" value="24v" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="170" width="65" height="40" as="geometry" />
+          <mxGeometry x="920" y="140" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-4" value="CAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="260" width="65" height="40" as="geometry" />
+          <mxGeometry x="920" y="230" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-5" value="控制板&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="550" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-6" value="熔断推杆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="320" width="120" height="100" as="geometry" />
+          <mxGeometry x="1020" y="290" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-7" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="320" width="70" height="50" as="geometry" />
+          <mxGeometry x="920" y="290" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-10" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="370" width="70" height="50" as="geometry" />
+          <mxGeometry x="920" y="340" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-11" value="CAN端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="70" width="65" height="40" as="geometry" />
+          <mxGeometry x="815" y="40" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-12" value="SUBS端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="70" width="65" height="40" as="geometry" />
+          <mxGeometry x="730" y="40" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-13" value="PWM端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="70" width="65" height="40" as="geometry" />
+          <mxGeometry x="660" y="40" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-14" value="UART端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="70" width="65" height="40" as="geometry" />
+          <mxGeometry x="570" y="40" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
