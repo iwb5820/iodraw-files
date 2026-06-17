@@ -46,6 +46,9 @@
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-16" value="LORA射频模组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-17" value="LORA射频模组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
