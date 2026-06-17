@@ -61,8 +61,11 @@
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-20" value="LORA射频模组1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="40" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xFZhMD0koIUEWbcOS8xQ-25" value="14.6v电池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-25" value="DCDC12V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-26" value="14.6v电池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
