@@ -119,7 +119,7 @@
             <mxPoint x="400.29" y="342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-27" value="控制板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-27" value="300KG独立地磅带屏显" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="220" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
