@@ -95,7 +95,7 @@
           <mxGeometry x="280" y="490" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-37" value="串口显示屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="490" width="170" height="100" as="geometry" />
+          <mxGeometry x="410" y="570" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-38" value="5v电池模组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="490" width="100" height="60" as="geometry" />
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-41" value="自锁开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-42" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#a44141;" vertex="1" parent="1">
+          <mxGeometry x="460" y="350" width="730" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
