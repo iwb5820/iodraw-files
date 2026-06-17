@@ -76,6 +76,9 @@
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-29" value="舵机2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-30" value="必要按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
