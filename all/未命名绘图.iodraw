@@ -4,76 +4,76 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-1" value="控制板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-1" value="控制板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="400" width="620" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SXbefpeA6UIsfo8SmCDp-2" target="SXbefpeA6UIsfo8SmCDp-1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SXbefpeA6UIsfo8SmCDp-2" target="SXbefpeA6UIsfo8SmCDp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-2" value="4s14.8v 电池，带充电口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-2" value="4s14.8v 电池，带充电口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="425" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-3" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-3" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-4" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-4" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-5" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-5" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-6" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-6" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-7" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-7" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-8" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-8" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="750" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-10" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-10" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-11" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-11" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="750" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-12" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-12" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-13" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-13" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="750" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-14" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-14" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-15" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-15" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="750" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="369.71" y="660" as="sourcePoint" />
             <mxPoint x="370" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="529.5799999999999" y="658" as="sourcePoint" />
             <mxPoint x="529.87" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="699.5799999999999" y="660" as="sourcePoint" />
             <mxPoint x="699.87" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="869.5799999999999" y="658" as="sourcePoint" />
             <mxPoint x="869.87" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="770" as="sourcePoint" />
             <mxPoint x="450.29" y="600" as="targetPoint" />
@@ -82,7 +82,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="770" as="sourcePoint" />
             <mxPoint x="610.29" y="600" as="targetPoint" />
@@ -91,7 +91,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="770" as="sourcePoint" />
             <mxPoint x="780.29" y="600" as="targetPoint" />
@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="765" as="sourcePoint" />
             <mxPoint x="930" y="580" as="targetPoint" />
@@ -110,25 +110,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-25" value="串口屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-25" value="串口屏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="220" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="398" as="sourcePoint" />
             <mxPoint x="640.29" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-27" value="300KG独立地磅带屏显" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-27" value="300KG独立地磅带屏显" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="220" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-28" value="独立卡录摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-28" value="独立卡录摄像头" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="220" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-29" value="自锁开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-29" value="自锁开关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="330" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SXbefpeA6UIsfo8SmCDp-29">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="SXbefpeA6UIsfo8SmCDp-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="239.99999999999997" y="498" as="sourcePoint" />
             <mxPoint x="240.29" y="440" as="targetPoint" />
@@ -137,7 +137,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;entryX=0.019;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SXbefpeA6UIsfo8SmCDp-32" target="SXbefpeA6UIsfo8SmCDp-28">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;entryX=0.019;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SXbefpeA6UIsfo8SmCDp-32" target="SXbefpeA6UIsfo8SmCDp-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="498" as="sourcePoint" />
             <mxPoint x="260" y="350" as="targetPoint" />
@@ -146,7 +146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SXbefpeA6UIsfo8SmCDp-32">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="SXbefpeA6UIsfo8SmCDp-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="498" as="sourcePoint" />
             <mxPoint x="313" y="274" as="targetPoint" />
@@ -155,7 +155,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-32" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-32" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="360" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
