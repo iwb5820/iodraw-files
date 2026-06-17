@@ -19,7 +19,7 @@
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-5" value="控制板&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="550" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xFZhMD0koIUEWbcOS8xQ-6" value="转盘控制板&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-6" value="熔断推杆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="320" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
