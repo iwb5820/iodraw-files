@@ -8,7 +8,7 @@
           <mxGeometry x="520" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-2" value="电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
