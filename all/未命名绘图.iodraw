@@ -7,6 +7,9 @@
         <mxCell id="SXbefpeA6UIsfo8SmCDp-1" value="控制板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="400" width="620" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SXbefpeA6UIsfo8SmCDp-2" target="SXbefpeA6UIsfo8SmCDp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SXbefpeA6UIsfo8SmCDp-2" value="4s14.8v 电池，带充电口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="425" width="140" height="150" as="geometry" />
         </mxCell>
@@ -99,11 +102,11 @@
         </mxCell>
         <mxCell id="SXbefpeA6UIsfo8SmCDp-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="930" y="775" as="sourcePoint" />
-            <mxPoint x="930" y="590" as="targetPoint" />
+            <mxPoint x="930" y="765" as="sourcePoint" />
+            <mxPoint x="930" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="950" y="775" />
-              <mxPoint x="950" y="590" />
+              <mxPoint x="950" y="765" />
+              <mxPoint x="950" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
