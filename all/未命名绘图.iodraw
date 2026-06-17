@@ -94,7 +94,7 @@
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-36" value="LORA射频模组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="490" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xFZhMD0koIUEWbcOS8xQ-37" value="遥控端控制板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFZhMD0koIUEWbcOS8xQ-37" value="串口显示屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="490" width="170" height="100" as="geometry" />
         </mxCell>
       </root>
