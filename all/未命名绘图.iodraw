@@ -10,6 +10,9 @@
         <mxCell id="SXbefpeA6UIsfo8SmCDp-2" value="4s14.8v 电池，带充电口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-3" value="人体感应模块3米生效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
