@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#a44141;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="40" width="490" height="370" as="geometry" />
+          <mxGeometry x="-80" y="20" width="490" height="390" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#a44141;" vertex="1" parent="1">
           <mxGeometry x="430" y="20" width="730" height="390" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="920" y="230" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-5" value="钩爪控制板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="220" height="100" as="geometry" />
+          <mxGeometry x="170" y="130" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-6" value="熔断推杆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="290" width="120" height="100" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry x="450" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-20" value="LORA射频模组2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="20" width="100" height="60" as="geometry" />
+          <mxGeometry x="170" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-21" value="LORA射频模组2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="20" width="100" height="60" as="geometry" />
+          <mxGeometry x="290" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-22" value="钩爪控制板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="590" width="100" height="70" as="geometry" />
