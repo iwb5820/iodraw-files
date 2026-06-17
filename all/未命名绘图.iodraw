@@ -28,6 +28,18 @@
         <mxCell id="SXbefpeA6UIsfo8SmCDp-8" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="750" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-10" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-11" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="750" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-12" value="灯带" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-13" value="功率开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="750" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
