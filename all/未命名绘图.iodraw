@@ -88,6 +88,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="770" as="sourcePoint" />
+            <mxPoint x="780.29" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#eb2424;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="775" as="sourcePoint" />
+            <mxPoint x="950.29" y="605" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="775" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
