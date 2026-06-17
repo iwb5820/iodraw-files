@@ -125,8 +125,8 @@
         <mxCell id="SXbefpeA6UIsfo8SmCDp-28" value="独立卡录摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="220" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SXbefpeA6UIsfo8SmCDp-29" value="控制板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220" width="200" height="140" as="geometry" />
+        <mxCell id="SXbefpeA6UIsfo8SmCDp-29" value="自锁开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
