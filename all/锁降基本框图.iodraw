@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="D3N6bf5EAme_LfPw9FtA">
-    <mxGraphModel dx="1167" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
           <mxGeometry x="80" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-34" value="遥控端控制板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="600" width="170" height="180" as="geometry" />
+          <mxGeometry x="160" y="600" width="170" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-35" value="按钮板，4个按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="720" width="100" height="60" as="geometry" />
@@ -108,9 +108,6 @@
         </mxCell>
         <mxCell id="xFZhMD0koIUEWbcOS8xQ-41" value="自锁开关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="660" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qolz-xY4o-mhpS8XTof5-1" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
